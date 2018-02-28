@@ -2,6 +2,9 @@
 
 You'll find a template for a LaTeX document (tutorial.tex) and LaTeX slides (beamer.tex) in this repository. 
 
+Online LaTeX editors to play with LaTeX: 
+- https://latexbase.com/
+- https://www.papeeria.com
 
 ## Helpful links: 
 
