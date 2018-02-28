@@ -15,13 +15,13 @@ Install LaTeX:
 Tutorial:
 https://www.latex-tutorial.com/
 
-Templates:
+Templates for posters,CVs, presentations, flowcharts, etc. etc.: 
 https://www.latextemplates.com/
 
 Figures:
 https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions
 
-Texmed:
+Texmed (Automated citations,references):
 http://www.bioinformatics.org/texmed/
 
 Smart Diagrams: 
