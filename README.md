@@ -1,5 +1,7 @@
 # LaTeX-Tutorial
 
+With LaTeX you can create papers, presentations, posters, CVs and all kinds of other documents.
+
 You'll find a template for a LaTeX document (tutorial.tex) and LaTeX slides (beamer.tex) in this repository. 
 
 Online LaTeX editors to play with LaTeX: 
