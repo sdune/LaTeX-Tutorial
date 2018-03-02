@@ -14,6 +14,9 @@ Install LaTeX:
 - Ubuntu: http://milq.github.io/install-latex-ubuntu-debian/
 - Windows: see tutorial link below
 
+Install Texmaker (free LaTeX editor): 
+http://www.xm1math.net/texmaker/download.html
+
 Tutorial:
 https://www.latex-tutorial.com/
 
