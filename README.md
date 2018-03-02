@@ -28,3 +28,6 @@ http://www.bioinformatics.org/texmed/
 
 Smart Diagrams: 
 http://latex-cookbook.net/articles/smart-diagrams/
+
+Ucalgary Thesis template: 
+http://www.grad.ucalgary.ca/current/thesis/templates
